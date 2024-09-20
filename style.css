@@ -1,0 +1,110 @@
+body {
+
+    background-color: rgb(255, 255, 255);
+    margin-left: 0;
+    margin-right: 0;
+    background-image: url(imagenes/forza-horizon-5-game_3840x2160_xtrafondos.com.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0%;
+    background-size: auto 781px ;
+}
+
+li {
+color: antiquewhite;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: top 10px;
+    padding-left: 5%;
+    padding-right: 3%;
+    margin-bottom: 0%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 { 
+
+color: antiquewhite;
+font-size: 45px;
+padding-right: 5cm;
+}
+
+ul li {
+
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.img_p {
+width: 100%;
+height: 500px;
+align-items: center;
+padding-left: 0%;
+}
+
+
+p {
+    color :aliceblue; 
+    font-size: 50px;
+    margin-left: 1%;
+}
+
+h2 {
+    color :aliceblue; 
+    font-size: 30px;
+
+}
+
+.video{
+        
+        margin: 100px;
+        margin-left: 150px;
+
+}
+
+#menu {
+margin-left: -60px;
+padding: top 10px;
+
+}
+
+#img {
+width: 100%;
+}
+
+
+#Texto_img { 
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color :aliceblue; 
+    font-size: 60px;
+    margin-left: 1%;
+    margin-top: 461px;
+}
+
+#H2 {
+margin-top: 240px;
+margin-left: 1%;
+color:black;    
+}
+
+#CLE {
+    height: 350px;
+    width: 400px;
+    border: 10px; 
+    border-radius: 15px; /* Radio de los bordes */
+    transition: transform 0.3s ease; /* Transición suave */
+    margin-left: 20px;
+    
+}
+
+#CLE:hover {
+    transform: scale(1.2); /* Escala el tamaño al 120% */
+}
